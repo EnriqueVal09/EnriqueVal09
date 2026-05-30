@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Enrique 👋
 
-<!--
-**EnriqueVal09/EnriqueVal09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 1 year of professional experience building web applications.
+Currently working at WiseCode, where I develop critical features, conduct code reviews,
+and contribute to technical decisions alongside the frontend lead.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** Angular · TypeScript · JavaScript · HTML/CSS · React (learning)  
+**Backend:** Django · .NET · REST APIs · SQL · PostgreSQL  
+**Tools:** Git · Railway · Cloudinary · Postman  
+
+## 🌱 Currently Learning
+
+Expanding into React and Ruby on Rails.
+
+## 📌 Featured Project
+
+**[Diners — Digital Menu System](https://github.com/EnriqueVal09/diners)**  
+A fullstack personal project built with Django and PostgreSQL.
+Explored cloud storage with Cloudinary and production deployment on Railway.
+Built to solve a real problem — validated with local businesses.
+
+## 📫 Contact
+
+[quiquechavezrm@gmail.com](mailto:quiquechavezrm@gmail.com) · Pachuca de Soto, México
