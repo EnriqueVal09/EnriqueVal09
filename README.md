@@ -1,8 +1,6 @@
 # Hi, I'm Enrique 👋
 
 Frontend Developer with 1 year of professional experience building web applications.
-Currently working at WiseCode, where I develop critical features, conduct code reviews,
-and contribute to technical decisions alongside the frontend lead.
 
 ## 🛠 Tech Stack
 
