@@ -4,13 +4,9 @@ Frontend Developer with 1 year of professional experience building web applicati
 
 ## 🛠 Tech Stack
 
-**Frontend:** Angular · TypeScript · JavaScript · HTML/CSS · React (learning)  
+**Frontend:** Angular · TypeScript · JavaScript · HTML/CSS  
 **Backend:** Django · .NET · REST APIs · SQL · PostgreSQL  
 **Tools:** Git · Railway · Cloudinary · Postman  
-
-## 🌱 Currently Learning
-
-Expanding into React and Ruby on Rails.
 
 ## 📌 Featured Project
 
